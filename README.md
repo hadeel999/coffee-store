@@ -30,3 +30,5 @@ https://tasneem-hadeel-project.herokuapp.com/
 ## UML Diagram :
 ![uml](./assest/project1a.PNG)
 ![uml](./assest/project1b.PNG)
+
+### May be some differences in paths and structure. And the links lead to Tasneem's repository that we submitted, but the idea is the same and we just shared some peices of our codes that's why we had some differences.
